@@ -1,0 +1,4 @@
+flutter_native_splash:
+  color: '6f64ff'
+  image: assets/images/marvel-logo.png
+  fullscreen: true
